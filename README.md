@@ -1,6 +1,6 @@
 # Hii, I'm Paola ✨
 🧚🏽‍♀️ **_I'm a fairy and a creative soul_** <br/> 
-💻 **Junior Web Developer** | Currently studying **DAW** <br/> 
+💻 **Junior Web Developer** | Currently studying **DAW** (Web Application Development) in La Salle FP Online <br/> 
 🧠 **Mixing Psychology & Coding** | I focus on **mental health and healing processes** through technology. <br/>
 🎨 **Digital Artist & Artisan** | Weaving code and lovely stories to create meaningful digital content. <br/>
 
